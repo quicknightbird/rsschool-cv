@@ -1,4 +1,4 @@
-#This my a curriculum vitae, Latin for "course of life"
+# This my a curriculum vitae, Latin for "course of life"
 
 ![выф](https://i.ibb.co/7bJLTCX/pngtree-an-orange-cat-with-squinting-eyes-png-image-2664925-removebg-preview.png)
 
@@ -17,7 +17,7 @@ I want to be a developer and work in a team on a large project.
 
 My weakness is time management but i try fix it. 
 
-#####My skills: 
+##### My skills: 
 - _html_
 - _css_
 - _js_ 
@@ -28,12 +28,12 @@ My weakness is time management but i try fix it.
 - _chess_
 - _English_ ***~A2-B1***
 
-#####EDUCATION: 
+##### EDUCATION: 
 - _Middle school_(___2004-2015___)
 - _Saint Petersburg Electrotechnical University "LETI"_ (___2015-2017___)
 - _St. Petersburg State University of Telecommunications_ (___2017-2021___)
 
-#####EXAMPLE CODE PYTHON, ON JS THERE IS NOTHING:
+##### EXAMPLE CODE PYTHON, ON JS THERE IS NOTHING:
 
     def authorization_fb():
     global login_fb, password_fb
